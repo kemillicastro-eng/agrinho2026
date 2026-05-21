@@ -1,2 +1,2 @@
 # agrinho2026
-projeto para p agrinho 2026
+projeto para o agrinho 2026
